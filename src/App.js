@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import BookBank from './Components/BookBank/BookBank';
+import BookBank from './components/pages/BookBank/BookBank'
 import NavBar from './components/NavBar/NavBar';
 
 function App() {
